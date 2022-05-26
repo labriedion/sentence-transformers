@@ -2,7 +2,7 @@
 
 The goal of **Domain Adaptation** is to adapt text embedding models to your specific text domain without the need to labeled training data.
 
-Domain adaptation is still an activate research field and there exists no perfect solution yet. However, in our two recent papers [TSDAE](https://arxiv.org/abs/2104.06979) and [GPL](https://arxiv.org/abs/2112.07577) we evaluated several methods how text embeddings model can be adapted to your specific domain. You can find an overview of these methods in my [talk on unsupervised domain adaptation](https://youtu.be/xbdLowiQTlk).
+Domain adaptation is still an active research field and there exists no perfect solution yet. However, in our two recent papers [TSDAE](https://arxiv.org/abs/2104.06979) and [GPL](https://arxiv.org/abs/2112.07577) we evaluated several methods how text embeddings model can be adapted to your specific domain. You can find an overview of these methods in my [talk on unsupervised domain adaptation](https://youtu.be/xbdLowiQTlk).
 
 ## Domain Adaptation vs. Unsupervised Learning
 There exists methods for [unsupervised text embedding learning](../unsupervised_learning/README.md), however, they generally perform rather badly: They are not really able to learn domain specific concepts. 
